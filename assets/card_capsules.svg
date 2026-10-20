@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 640" preserveAspectRatio="xMidYMid slice"><defs>
+<filter id="blur2" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2"/></filter>
+<filter id="blur6" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="6"/></filter>
+<filter id="blur12" x="-100%" y="-300%" width="300%" height="700%"><feGaussianBlur stdDeviation="12"/></filter>
+<filter id="blur40" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#34D17F" stop-opacity=".55"/><stop offset="1" stop-color="#34D17F" stop-opacity="0"/></radialGradient>
+<radialGradient id="tab" cx=".38" cy=".3" r=".8"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#B9D8C6"/></radialGradient>
+</defs>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14543A"/><stop offset=".55" stop-color="#0A2A1D"/><stop offset="1" stop-color="#06130D"/></linearGradient>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#04100A" stop-opacity="0"/><stop offset="1" stop-color="#04100A" stop-opacity=".82"/></linearGradient></defs>
+<rect width="520" height="640" fill="url(#bg)"/><circle cx="300" cy="220" r="240" fill="url(#glow)"/><circle cx="70" cy="90" r="46" fill="#34D17F" opacity="0.35" filter="url(#blur6)"/><circle cx="440" cy="70" r="60" fill="#2FBF71" opacity="0.28" filter="url(#blur6)"/><circle cx="460" cy="330" r="38" fill="#9BE3B5" opacity="0.25" filter="url(#blur6)"/><circle cx="60" cy="420" r="52" fill="#1D8F5A" opacity="0.35" filter="url(#blur6)"/><circle cx="330" cy="40" r="22" fill="#ffffff" opacity="0.25" filter="url(#blur6)"/>
+<g transform="translate(420 470) rotate(28)" filter="url(#blur6)">
+<defs><clipPath id="cd"><rect x="-130.0" y="-50.0" width="260" height="100" rx="50.0"/></clipPath>
+<linearGradient id="ld" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFD36B"/><stop offset="1" stop-color="#E39A12"/></linearGradient>
+<linearGradient id="rd" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#E9E3CF"/></linearGradient>
+<linearGradient id="sd" x1="0" y1="0" x2="0" y2="1"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".30"/></linearGradient></defs>
+<g clip-path="url(#cd)"><rect x="-130.0" y="-50.0" width="130.0" height="100" fill="url(#ld)"/>
+<rect x="0" y="-50.0" width="130.0" height="100" fill="url(#rd)"/>
+<rect x="-130.0" y="-50.0" width="260" height="100" fill="url(#sd)"/>
+<rect x="-102.5" y="-37.0" width="205.0" height="15.0" rx="7.5" fill="#fff" opacity="0.55"/></g>
+<rect x="-130.0" y="-50.0" width="260" height="100" rx="50.0" fill="none" stroke="#fff" stroke-opacity=".28"/></g>
+<ellipse cx="264" cy="375.4" rx="142.79999999999998" ry="21.12" fill="#000" opacity=".35" filter="url(#blur12)"/><g transform="translate(250 250) rotate(-28)">
+<defs><clipPath id="ce"><rect x="-170.0" y="-66.0" width="340" height="132" rx="66.0"/></clipPath>
+<linearGradient id="le" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3BD98A"/><stop offset="1" stop-color="#0E7447"/></linearGradient>
+<linearGradient id="re" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F8FCF9"/><stop offset="1" stop-color="#BFD9CA"/></linearGradient>
+<linearGradient id="se" x1="0" y1="0" x2="0" y2="1"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".30"/></linearGradient></defs>
+<g clip-path="url(#ce)"><rect x="-170.0" y="-66.0" width="170.0" height="132" fill="url(#le)"/>
+<rect x="0" y="-66.0" width="170.0" height="132" fill="url(#re)"/>
+<rect x="-170.0" y="-66.0" width="340" height="132" fill="url(#se)"/>
+<rect x="-133.7" y="-48.84" width="267.4" height="19.8" rx="9.9" fill="#fff" opacity="0.55"/></g>
+<rect x="-170.0" y="-66.0" width="340" height="132" rx="66.0" fill="none" stroke="#fff" stroke-opacity=".28"/></g>
+<ellipse cx="164" cy="511.7" rx="92.39999999999999" ry="13.76" fill="#000" opacity=".35" filter="url(#blur12)"/><g transform="translate(150 430) rotate(16)">
+<defs><clipPath id="cf"><rect x="-110.0" y="-43.0" width="220" height="86" rx="43.0"/></clipPath>
+<linearGradient id="lf" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8FEAB8"/><stop offset="1" stop-color="#22A065"/></linearGradient>
+<linearGradient id="rf" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F8FCF9"/><stop offset="1" stop-color="#BFD9CA"/></linearGradient>
+<linearGradient id="sf" x1="0" y1="0" x2="0" y2="1"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".30"/></linearGradient></defs>
+<g clip-path="url(#cf)"><rect x="-110.0" y="-43.0" width="110.0" height="86" fill="url(#lf)"/>
+<rect x="0" y="-43.0" width="110.0" height="86" fill="url(#rf)"/>
+<rect x="-110.0" y="-43.0" width="220" height="86" fill="url(#sf)"/>
+<rect x="-86.35" y="-31.82" width="172.7" height="12.9" rx="6.45" fill="#fff" opacity="0.55"/></g>
+<rect x="-110.0" y="-43.0" width="220" height="86" rx="43.0" fill="none" stroke="#fff" stroke-opacity=".28"/></g>
+<rect width="520" height="640" fill="url(#fade)"/></svg>
